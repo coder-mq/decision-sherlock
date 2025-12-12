@@ -1,0 +1,8 @@
+{
+  "name": "Decision Sherlock",
+  "description": "A multimodal life decision engine that analyzes options (jobs, apartments, etc.) against your weighted criteria using AI to deduce the best choice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
